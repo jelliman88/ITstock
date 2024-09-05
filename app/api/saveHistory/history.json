@@ -1,0 +1,18 @@
+[
+  {
+    "time": "test",
+    "message": "test"
+  },
+  {
+    "time": "12:44:11",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "12:44:17",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:57:10",
+    "message": "No matching barcode"
+  }
+]

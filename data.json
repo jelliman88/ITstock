@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jabra Evolve2 55",
+    "quantity": "11",
+    "hasBarcode": true,
+    "barcode": "00360649073"
+  },
+  {
+    "name": "iPhone 13",
+    "quantity": "10",
+    "hasBarcode": true,
+    "barcode": "SJQYQR0JN7Q"
+  },
+  {
+    "name": "Samsung s22",
+    "quantity": "10",
+    "hasBarcode": true,
+    "barcode": "R5CWC1BEF4M"
+  },
+  {
+    "name": "no barcode",
+    "quantity": "0",
+    "hasBarcode": false,
+    "barcode": "12345678"
+  }
+]

@@ -1,7 +1,6 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
@@ -227,4 +226,51 @@
   to {
     transform: rotate(0deg);
   }
+}
+
+.dataTable {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.dataTable th, .dataTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.dataTable th {
+  
+  font-weight: bold;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.infoBox {
+  border: solid white 3px;
+  padding: 1rem;
+  margin-left: 3rem;
+  width: 50%;
+  height: 50vh; /* Optional: Adjust height as needed */
+  box-sizing: border-box; /* Ensures the width includes the border */
+  font-family: "Courier New", Courier, monospace;
+}
+
+.quantity {
+  padding: 1rem;
+  height: 1rem; /* Increase the height */
+  font-size: 1.5rem; /* Larger font size, indirectly makes arrows appear bigger */
+  border-radius: 0.25rem;
+  width: 6rem; /* Ensures the input takes up full width */
+}
+
+.barcode {
+  padding: 0.5rem;
+  font-size: 1.5rem;
 }
