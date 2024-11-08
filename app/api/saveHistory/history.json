@@ -14,5 +14,1406 @@
   {
     "time": "15:57:10",
     "message": "No matching barcode"
+  },
+  {
+    "time": "13:45:11",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "13:48:23",
+    "message": "iPhone 13"
+  },
+  {
+    "time": "13:48:33",
+    "message": "Samsung s22 glass"
+  },
+  {
+    "time": "13:48:44",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "13:48:48",
+    "message": "Samsung s22"
+  },
+  {
+    "time": "13:48:55",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "13:49:33",
+    "message": "iPhone 13 cover"
+  },
+  {
+    "time": "13:50:22",
+    "message": "iPhone 13 glass"
+  },
+  {
+    "time": "13:52:38",
+    "message": "Samsung S21 5G glass"
+  },
+  {
+    "time": "13:52:58",
+    "message": "iPhone 13 glass"
+  },
+  {
+    "time": "13:54:16",
+    "message": "Samsung S20 FE 5G glass"
+  },
+  {
+    "time": "14:05:46",
+    "message": "Samsung type-c earphones"
+  },
+  {
+    "time": "14:35:03",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "14:41:22",
+    "message": "iPhone 11 glass"
+  },
+  {
+    "time": "14:41:34",
+    "message": "iPhone 13 glass"
+  },
+  {
+    "time": "14:43:06",
+    "message": "iPhone 13 glass"
+  },
+  {
+    "time": "14:43:08",
+    "message": "iPhone 13 glass"
+  },
+  {
+    "time": "14:43:26",
+    "message": "iPhone 13 cover"
+  },
+  {
+    "time": "14:43:33",
+    "message": "iPhone 13"
+  },
+  {
+    "time": "14:43:44",
+    "message": "Samsung s20 FE 5G glass"
+  },
+  {
+    "time": "14:43:50",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "14:43:53",
+    "message": "Samsung s21 glass"
+  },
+  {
+    "time": "14:44:00",
+    "message": "Samsung s22 cover"
+  },
+  {
+    "time": "14:44:41",
+    "message": "Samsung s22 glass"
+  },
+  {
+    "time": "14:44:50",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "14:45:40",
+    "message": "Samsung s22 glass"
+  },
+  {
+    "time": "14:45:43",
+    "message": "Samsung s22 glass"
+  },
+  {
+    "time": "14:45:54",
+    "message": "Samsung s22"
+  },
+  {
+    "time": "15:30:55",
+    "message": "Dell P3424WE"
+  },
+  {
+    "time": "15:31:04",
+    "message": "Dell P2422HE/DE"
+  },
+  {
+    "time": "15:31:07",
+    "message": "Dell P2422HE/DE"
+  },
+  {
+    "time": "15:33:06",
+    "message": "Dell P3424WE"
+  },
+  {
+    "time": "15:34:09",
+    "message": "Dell P3424WE"
+  },
+  {
+    "time": "15:34:14",
+    "message": "Dell P3424WE"
+  },
+  {
+    "time": "15:34:39",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:34:42",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:34:47",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:34:52",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:34:54",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:55:14",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "15:57:33",
+    "message": "USB-C to Lightning"
+  },
+  {
+    "time": "09:19:11",
+    "message": "test"
+  },
+  {
+    "time": "09:19:13",
+    "message": "test"
+  },
+  {
+    "time": "09:19:15",
+    "message": "test"
+  },
+  {
+    "time": "09:26:35",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "09:26:42",
+    "message": "Laptop is not ordered"
+  },
+  {
+    "time": "09:26:59",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "09:27:02",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "09:27:27",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:27:30",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:27:30",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:27:30",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:27:30",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:38:03",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:38:04",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "09:38:04",
+    "message": "Laptop is adjusted"
+  },
+  {
+    "time": "10:36:37",
+    "message": "Laptop -1"
+  },
+  {
+    "time": "10:36:38",
+    "message": "Laptop -1"
+  },
+  {
+    "time": "10:36:40",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "10:36:47",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "10:36:51",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "10:37:46",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "10:37:53",
+    "message": "Laptop"
+  },
+  {
+    "time": "10:41:01",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "10:41:02",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "10:41:03",
+    "message": "iPhone 13 is ordered"
+  },
+  {
+    "time": "10:41:04",
+    "message": "iPhone 13 cover is ordered"
+  },
+  {
+    "time": "10:41:07",
+    "message": "iPhone 13 cover has arrived"
+  },
+  {
+    "time": "10:41:08",
+    "message": "iPhone 13 has arrived"
+  },
+  {
+    "time": "10:41:09",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "10:41:10",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "10:41:13",
+    "message": "Dell P3424WE is ordered"
+  },
+  {
+    "time": "10:41:14",
+    "message": "Dell P3424WE has arrived"
+  },
+  {
+    "time": "10:41:15",
+    "message": "Dell P2422HE/DE is ordered"
+  },
+  {
+    "time": "10:41:15",
+    "message": "Dell P2422HE/DE has arrived"
+  },
+  {
+    "time": "10:42:19",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "10:42:24",
+    "message": "Laptop (DE layout) +1"
+  },
+  {
+    "time": "10:42:25",
+    "message": "Laptop (DE layout) -1"
+  },
+  {
+    "time": "10:43:13",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "10:43:24",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "10:46:41",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "10:46:41",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "10:46:43",
+    "message": "Laptop -1"
+  },
+  {
+    "time": "10:46:43",
+    "message": "Laptop -1"
+  },
+  {
+    "time": "10:46:47",
+    "message": "Jabra Evolve2 55 quantity remains the same"
+  },
+  {
+    "time": "10:46:50",
+    "message": "Jabra Evolve2 55 quantity remains the same"
+  },
+  {
+    "time": "10:46:50",
+    "message": "Jabra Evolve2 55 +9"
+  },
+  {
+    "time": "10:47:30",
+    "message": "Jabra Evolve2 55 -9"
+  },
+  {
+    "time": "10:47:42"
+  },
+  {
+    "time": "10:47:47"
+  },
+  {
+    "time": "10:48:19",
+    "message": "Jabra Evolve2 55 -9"
+  },
+  {
+    "time": "10:48:35",
+    "message": "Jabra Evolve2 55 +9"
+  },
+  {
+    "time": "10:49:21",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "10:49:23",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "10:49:27",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "10:49:28",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "10:56:41",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "10:56:44",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "10:56:51",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "10:56:51",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "10:56:52",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "10:56:53",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "10:57:02",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "10:57:03",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "10:57:03",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "10:57:03",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "10:57:03",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "10:57:09",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "10:57:09",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "10:57:09",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "10:57:09",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "10:57:09",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "11:05:37",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:05:43"
+  },
+  {
+    "time": "11:05:58"
+  },
+  {
+    "time": "11:06:03",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "11:06:14",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "11:06:17",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:17",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:17",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:17",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:17",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:18",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:18",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:18",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:06:18",
+    "message": "Laptop +1"
+  },
+  {
+    "time": "11:08:59",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "11:09:13",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:13",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:13",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:13",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:13",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:14",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:14",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:14",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:14",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:15",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:16",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "11:09:17",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "11:09:19",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "11:09:44",
+    "message": "iPhone 13 is ordered"
+  },
+  {
+    "time": "11:09:49",
+    "message": "iPhone 13 has arrived"
+  },
+  {
+    "time": "11:52:30",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "11:52:32",
+    "message": "iPhone 13 is ordered"
+  },
+  {
+    "time": "11:52:34",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "11:52:35",
+    "message": "Laptop (DE layout) is ordered"
+  },
+  {
+    "time": "11:52:36",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "11:52:37",
+    "message": "Laptop (DE layout) has arrived"
+  },
+  {
+    "time": "11:52:37",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "11:42:30",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "11:42:37",
+    "message": "No matching barcode"
+  },
+  {
+    "time": "11:42:41",
+    "message": "iPhone 13"
+  },
+  {
+    "time": "11:47:33"
+  },
+  {
+    "time": "11:47:34"
+  },
+  {
+    "time": "13:03:02",
+    "message": "Jabra Evolve2 55 -9"
+  },
+  {
+    "time": "13:03:02",
+    "message": "Jabra Evolve2 55 +11"
+  },
+  {
+    "time": "13:04:12"
+  },
+  {
+    "time": "13:04:13"
+  },
+  {
+    "time": "13:04:13",
+    "message": "iPhone 13 +11"
+  },
+  {
+    "time": "08:08:18"
+  },
+  {
+    "time": "08:08:23"
+  },
+  {
+    "time": "08:08:36",
+    "message": "Jabra Evolve2 55 -11"
+  },
+  {
+    "time": "08:08:36"
+  },
+  {
+    "time": "08:08:37"
+  },
+  {
+    "time": "08:09:00",
+    "message": "iPhone 13 -11"
+  },
+  {
+    "time": "08:09:01",
+    "message": "iPhone 13 +13"
+  },
+  {
+    "time": "08:09:05",
+    "message": "iPhone 13 cover -9"
+  },
+  {
+    "time": "08:09:06",
+    "message": "iPhone 13 cover +13"
+  },
+  {
+    "time": "08:09:14",
+    "message": "iPhone 13 -13"
+  },
+  {
+    "time": "08:09:15"
+  },
+  {
+    "time": "08:09:15"
+  },
+  {
+    "time": "08:09:40"
+  },
+  {
+    "time": "08:09:40"
+  },
+  {
+    "time": "08:12:23",
+    "message": "iPhone 11 glass -9"
+  },
+  {
+    "time": "08:12:23",
+    "message": "iPhone 11 glass +10"
+  },
+  {
+    "time": "08:12:32"
+  },
+  {
+    "time": "08:12:33"
+  },
+  {
+    "time": "08:12:51"
+  },
+  {
+    "time": "08:12:52"
+  },
+  {
+    "time": "08:12:52",
+    "message": "Samsung s22 cover +16"
+  },
+  {
+    "time": "08:13:07"
+  },
+  {
+    "time": "08:13:08"
+  },
+  {
+    "time": "08:13:08",
+    "message": "Samsung s22 glass +14"
+  },
+  {
+    "time": "08:13:08",
+    "message": "Samsung s22 glass -14"
+  },
+  {
+    "time": "08:13:09",
+    "message": "Samsung s22 glass +13"
+  },
+  {
+    "time": "08:14:08"
+  },
+  {
+    "time": "08:14:08"
+  },
+  {
+    "time": "08:14:11"
+  },
+  {
+    "time": "08:14:12"
+  },
+  {
+    "time": "08:14:27"
+  },
+  {
+    "time": "08:14:28"
+  },
+  {
+    "time": "08:15:02",
+    "message": "Dell Wireless keyboard mouse combo Scandi -20"
+  },
+  {
+    "time": "08:15:02"
+  },
+  {
+    "time": "08:15:03"
+  },
+  {
+    "time": "08:15:03",
+    "message": "Dell Wireless keyboard mouse combo Scandi +12"
+  },
+  {
+    "time": "08:15:14"
+  },
+  {
+    "time": "08:15:15"
+  },
+  {
+    "time": "08:15:31"
+  },
+  {
+    "time": "08:15:32"
+  },
+  {
+    "time": "08:15:48"
+  },
+  {
+    "time": "08:15:48"
+  },
+  {
+    "time": "08:18:04"
+  },
+  {
+    "time": "08:18:05"
+  },
+  {
+    "time": "08:18:05",
+    "message": "Power Adapter USB-C For Laptop 65W +14"
+  },
+  {
+    "time": "08:18:37"
+  },
+  {
+    "time": "08:18:37"
+  },
+  {
+    "time": "08:37:56"
+  },
+  {
+    "time": "08:37:58"
+  },
+  {
+    "time": "08:38:55",
+    "message": "Lightning To Headphone Jack -1"
+  },
+  {
+    "time": "08:38:57"
+  },
+  {
+    "time": "08:38:57"
+  },
+  {
+    "time": "08:39:16"
+  },
+  {
+    "time": "08:39:17"
+  },
+  {
+    "time": "08:39:17",
+    "message": "USB-A to USB-C adapter +9"
+  },
+  {
+    "time": "08:39:31"
+  },
+  {
+    "time": "08:39:32"
+  },
+  {
+    "time": "08:39:38"
+  },
+  {
+    "time": "10:20:28",
+    "message": "USB-C Earphones -1"
+  },
+  {
+    "time": "10:20:59",
+    "message": "Dell Wireless keyboard mouse combo Scandi -1"
+  },
+  {
+    "time": "10:21:45",
+    "message": "Jabra Evolve2 55 -1"
+  },
+  {
+    "time": "10:58:45",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "10:58:57",
+    "message": "iPhone 13 -1"
+  },
+  {
+    "time": "10:59:23",
+    "message": "iPhone 13 is ordered"
+  },
+  {
+    "time": "10:59:55",
+    "message": "iPhone 13 glass is ordered"
+  },
+  {
+    "time": "11:00:21",
+    "message": "iPhone 11 glass is ordered"
+  },
+  {
+    "time": "11:03:11",
+    "message": "Cirafon Wall Charger 30W USB C+A White is ordered"
+  },
+  {
+    "time": "11:05:23",
+    "message": "USB-C to Lightning is ordered"
+  },
+  {
+    "time": "11:07:07",
+    "message": "Cirafon USB-C to USB-C cable is ordered"
+  },
+  {
+    "time": "11:07:28",
+    "message": "Screen Cleaner Kit is ordered"
+  },
+  {
+    "time": "11:49:35",
+    "message": "iPhone 11 glass has arrived"
+  },
+  {
+    "time": "14:27:55",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "14:28:14"
+  },
+  {
+    "time": "14:28:14"
+  },
+  {
+    "time": "14:28:14",
+    "message": "Jabra Evolve2 55 +16"
+  },
+  {
+    "time": "14:33:05",
+    "message": "iPhone 11 cover +1"
+  },
+  {
+    "time": "14:33:06",
+    "message": "iPhone 11 cover +1"
+  },
+  {
+    "time": "14:33:06",
+    "message": "iPhone 11 cover +1"
+  },
+  {
+    "time": "14:33:06",
+    "message": "iPhone 11 cover +1"
+  },
+  {
+    "time": "14:33:09",
+    "message": "iPhone 11 cover has arrived"
+  },
+  {
+    "time": "14:34:02"
+  },
+  {
+    "time": "14:35:37",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:37",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:37",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:37",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:38",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:38",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:38",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:38",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:35:38",
+    "message": "iPhone 13 glass +1"
+  },
+  {
+    "time": "14:36:16"
+  },
+  {
+    "time": "14:36:18",
+    "message": "iPhone 13 has arrived"
+  },
+  {
+    "time": "14:36:19",
+    "message": "iPhone 13 glass has arrived"
+  },
+  {
+    "time": "14:37:39"
+  },
+  {
+    "time": "14:37:40"
+  },
+  {
+    "time": "14:37:40",
+    "message": "Cirafon Wall Charger 30W USB C+A White +9"
+  },
+  {
+    "time": "14:37:50",
+    "message": "Cirafon Wall Charger 30W USB C+A White has arrived"
+  },
+  {
+    "time": "14:38:14",
+    "message": "USB-C to Lightning +1"
+  },
+  {
+    "time": "14:38:14",
+    "message": "USB-C to Lightning +1"
+  },
+  {
+    "time": "14:38:15",
+    "message": "USB-C to Lightning +1"
+  },
+  {
+    "time": "14:38:15",
+    "message": "USB-C to Lightning +1"
+  },
+  {
+    "time": "14:38:16",
+    "message": "USB-C to Lightning -1"
+  },
+  {
+    "time": "14:38:17",
+    "message": "USB-C to Lightning has arrived"
+  },
+  {
+    "time": "14:38:20",
+    "message": "14'' Privacy Screen -1"
+  },
+  {
+    "time": "14:38:20",
+    "message": "14'' Privacy Screen -1"
+  },
+  {
+    "time": "14:41:05",
+    "message": "Samsung s22 is ordered"
+  },
+  {
+    "time": "14:41:13",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "14:46:01",
+    "message": "Dell Wireless keyboard mouse combo Scandi -1"
+  },
+  {
+    "time": "14:46:01",
+    "message": "Dell Wireless keyboard mouse combo Scandi -1"
+  },
+  {
+    "time": "14:46:01",
+    "message": "Dell Wireless keyboard mouse combo Scandi -1"
+  },
+  {
+    "time": "09:38:12"
+  },
+  {
+    "time": "09:38:14"
+  },
+  {
+    "time": "09:38:16",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "09:38:45",
+    "message": "Jabra Evolve2 55 +1"
+  },
+  {
+    "time": "09:38:54",
+    "message": "Jabra Evolve2 55 -17"
+  },
+  {
+    "time": "09:38:55"
+  },
+  {
+    "time": "09:38:55"
+  },
+  {
+    "time": "09:39:01",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "09:39:36",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "09:39:42",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "09:39:43",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "09:40:09",
+    "message": "Laptop is ordered"
+  },
+  {
+    "time": "09:40:28",
+    "message": "Laptop (DE layout) +1"
+  },
+  {
+    "time": "09:41:12",
+    "message": "Laptop (DE layout) +1"
+  },
+  {
+    "time": "09:41:14",
+    "message": "Laptop (DE layout) -1"
+  },
+  {
+    "time": "09:41:15",
+    "message": "Laptop (DE layout) -1"
+  },
+  {
+    "time": "09:41:41",
+    "message": "Jabra Evolve2 55 is ordered"
+  },
+  {
+    "time": "09:41:44",
+    "message": "iPhone 13 -1"
+  },
+  {
+    "time": "09:42:04",
+    "message": "iPhone 13 cover -1"
+  },
+  {
+    "time": "09:42:04",
+    "message": "iPhone 13 cover -1"
+  },
+  {
+    "time": "09:42:05",
+    "message": "iPhone 13 cover -1"
+  },
+  {
+    "time": "09:42:05",
+    "message": "iPhone 13 cover -1"
+  },
+  {
+    "time": "09:42:09",
+    "message": "iPhone 13 cover is ordered"
+  },
+  {
+    "time": "09:42:10",
+    "message": "iPhone 13 is ordered"
+  },
+  {
+    "time": "09:42:39",
+    "message": "iPhone 13 glass -1"
+  },
+  {
+    "time": "09:42:39",
+    "message": "iPhone 13 glass -1"
+  },
+  {
+    "time": "09:42:39",
+    "message": "iPhone 13 glass -1"
+  },
+  {
+    "time": "09:42:40",
+    "message": "iPhone 13 glass -1"
+  },
+  {
+    "time": "09:42:43",
+    "message": "iPhone 13 glass is ordered"
+  },
+  {
+    "time": "09:43:08",
+    "message": "Samsung s22 has arrived"
+  },
+  {
+    "time": "09:43:32",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:32",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:32",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:32",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:33",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:33",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:33",
+    "message": "Samsung s22 cover -1"
+  },
+  {
+    "time": "09:43:34",
+    "message": "Samsung s22 cover +1"
+  },
+  {
+    "time": "09:43:35",
+    "message": "Samsung s22 cover +1"
+  },
+  {
+    "time": "09:43:50",
+    "message": "Samsung s22 glass -1"
+  },
+  {
+    "time": "09:43:50",
+    "message": "Samsung s22 glass -1"
+  },
+  {
+    "time": "09:43:51",
+    "message": "Samsung s22 glass -1"
+  },
+  {
+    "time": "09:43:51",
+    "message": "Samsung s22 glass -1"
+  },
+  {
+    "time": "09:43:51",
+    "message": "Samsung s22 glass -1"
+  },
+  {
+    "time": "09:43:52",
+    "message": "Samsung s22 glass -1"
+  },
+  {
+    "time": "09:44:17",
+    "message": "Dell Wireless keyboard mouse combo Scandi is ordered"
+  },
+  {
+    "time": "09:44:35",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:36",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:36",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:36",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:37",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:40",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:40",
+    "message": "Dell Wireless mouse -1"
+  },
+  {
+    "time": "09:44:41",
+    "message": "Dell Wireless mouse is ordered"
+  },
+  {
+    "time": "09:45:11",
+    "message": "Dell P3424WE -1"
+  },
+  {
+    "time": "09:45:12",
+    "message": "Dell P3424WE -1"
+  },
+  {
+    "time": "09:45:13",
+    "message": "Dell P3424WE is ordered"
+  },
+  {
+    "time": "09:46:31",
+    "message": "Cirafon Wall Charger 30W USB C+A White -1"
+  },
+  {
+    "time": "09:47:15",
+    "message": "Cirafon USB-C to USB-C cable has arrived"
+  },
+  {
+    "time": "09:48:31",
+    "message": "Kingston DataTraveler microDuo 3C 128GB -1"
+  },
+  {
+    "time": "09:50:11",
+    "message": "USB-C to Lightning -1"
+  },
+  {
+    "time": "09:50:11",
+    "message": "USB-C to Lightning -1"
+  },
+  {
+    "time": "09:50:12",
+    "message": "USB-C to Lightning -1"
+  },
+  {
+    "time": "09:50:13",
+    "message": "USB-C to Lightning is ordered"
+  },
+  {
+    "time": "09:51:57",
+    "message": "Cirafon USB-C to USB-C cable is ordered"
+  },
+  {
+    "time": "15:02:39",
+    "message": "Dell Wireless mouse has arrived"
+  },
+  {
+    "time": "15:02:44"
+  },
+  {
+    "time": "15:02:45"
+  },
+  {
+    "time": "15:08:27"
+  },
+  {
+    "time": "15:08:27"
+  },
+  {
+    "time": "15:08:29",
+    "message": "Cirafon USB-C to USB-C cable +10"
+  },
+  {
+    "time": "15:09:17"
+  },
+  {
+    "time": "15:09:24"
+  },
+  {
+    "time": "15:09:29",
+    "message": "Screen Cleaner Kit has arrived"
+  },
+  {
+    "time": "15:09:48"
+  },
+  {
+    "time": "15:09:48"
+  },
+  {
+    "time": "15:09:50",
+    "message": "USB-C to Lightning has arrived"
+  },
+  {
+    "time": "15:11:11",
+    "message": "Samsung s22 -1"
+  },
+  {
+    "time": "15:11:32",
+    "message": "iPhone 13 glass -1"
+  },
+  {
+    "time": "15:11:32",
+    "message": "iPhone 13 glass -1"
+  },
+  {
+    "time": "15:11:48",
+    "message": "iPhone 13 glass -9"
+  },
+  {
+    "time": "15:11:48"
+  },
+  {
+    "time": "15:11:49"
+  },
+  {
+    "time": "15:11:51",
+    "message": "iPhone 13 glass has arrived"
+  },
+  {
+    "time": "15:12:01",
+    "message": "iPhone 13 cover -9"
+  },
+  {
+    "time": "15:12:01"
+  },
+  {
+    "time": "15:12:02"
+  },
+  {
+    "time": "15:12:11"
+  },
+  {
+    "time": "15:12:11"
+  },
+  {
+    "time": "15:12:13",
+    "message": "iPhone 13 cover has arrived"
+  },
+  {
+    "time": "15:12:14",
+    "message": "iPhone 13 has arrived"
+  },
+  {
+    "time": "15:12:25"
+  },
+  {
+    "time": "15:12:26"
+  },
+  {
+    "time": "15:12:28",
+    "message": "Jabra Evolve2 55 has arrived"
+  },
+  {
+    "time": "15:12:31"
+  },
+  {
+    "time": "15:12:31"
+  },
+  {
+    "time": "15:12:33",
+    "message": "Laptop has arrived"
+  },
+  {
+    "time": "15:12:43"
+  },
+  {
+    "time": "15:12:43"
+  },
+  {
+    "time": "15:12:44",
+    "message": "Dell Wireless keyboard mouse combo Scandi +14"
+  },
+  {
+    "time": "15:12:46",
+    "message": "Dell Wireless keyboard mouse combo Scandi has arrived"
   }
 ]

@@ -201,5 +201,13 @@
     "hasBarcode": true,
     "barcodes": [],
    "min": "0"
+  },
+  {
+    "name": "Lightning to Heaphone Jack",
+    "quantity": "10",
+    "hasBarcode": true,
+    "barcodes": [],
+   "min": "5"
   }
+  
 ]

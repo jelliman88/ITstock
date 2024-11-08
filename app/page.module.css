@@ -257,9 +257,11 @@
   padding: 1rem;
   margin-left: 3rem;
   width: 50%;
-  height: 50vh; /* Optional: Adjust height as needed */
-  box-sizing: border-box; /* Ensures the width includes the border */
+  height: 50vh; /* Adjust height as needed */
+  box-sizing: border-box;
   font-family: "Courier New", Courier, monospace;
+  overflow-y: auto; /* Adds vertical scrolling */
+  word-wrap: break-word; /* Ensures long text wraps */
 }
 
 .quantity {
@@ -273,4 +275,33 @@
 .barcode {
   padding: 0.5rem;
   font-size: 1.5rem;
+}
+
+
+/* Style the checkbox using a class */
+.customCheckbox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  border: 2px solid #007BFF;
+  border-radius: 4px;
+}
+
+.customCheckbox:checked {
+  background-color: #007BFF;
+  border-color: #007BFF;
+  position: relative;
+}
+
+.customCheckbox:checked::after {
+  content: '✔';
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
